@@ -7,6 +7,8 @@ show_sidebar: false
 hero_height: is-small
 ---
 
+The sprint will be a community effort to work on nilearn: adding new features, improving examples, documentations.
+
 ## Sprint Registration
 
 If you would like to receive information about the organization of the online

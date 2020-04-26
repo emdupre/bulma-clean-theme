@@ -7,8 +7,10 @@ show_sidebar: false
 hero_height: is-small
 ---
 
+The scientific day will illustrate exciting neuroscience that can be done with techniques such as those in nilearn.
+As the goal is to inspire and sketch the future of nilearn, the talks are not restricted to studies that have been performed using nilearn.
 
-## Scientific day (22 May): Confirmed Speakers
+## Confirmed Speakers
 
 Speaker | Presentation Title
 --------|--------------------
