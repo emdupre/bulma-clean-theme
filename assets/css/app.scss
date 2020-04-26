@@ -1,6 +1,14 @@
 ---
 ---
 
+nav.navbar.is-primary .navbar-brand {
+  color: black;
+}
+
+a.navbar-item{
+  color: black;
+}
+
 section.hero.is-primary{
   background-color: rgba(255,243,211,1);
   color: black;
@@ -8,6 +16,14 @@ section.hero.is-primary{
 
 section.hero.is-primary.is-bold{
   background-image: linear-gradient(160deg, rgba(42,98,128,1) 0%, rgba(52,153,205,1) 17%, rgba(255,243,211,1) 59%, rgba(255,178,96,1) 100%);
+}
+
+section.hero.is-primary .title{
+  color: black;
+}
+
+section.hero.is-primary .subtitle{
+  color: black;
 }
 
 $primary: #3499cd;
