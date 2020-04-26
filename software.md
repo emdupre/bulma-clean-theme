@@ -4,6 +4,7 @@ subtitle:
 layout: page
 toc: true
 show_sidebar: false
+hero_height: is-small
 ---
 
 ## Software development day (19 May): Confirmed Speakers
