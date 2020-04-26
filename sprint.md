@@ -1,6 +1,6 @@
 ---
-title: Page With Sidebar
-subtitle: A demo page with a sidebar
+title: Development Sprint
+subtitle:
 layout: page
 toc: true
 show_sidebar: false

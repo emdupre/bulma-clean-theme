@@ -1,6 +1,6 @@
 ---
-title: Page with menubar
-subtitle: Demo page with a menubar
+title: Scientific Day
+subtitle:
 layout: page
 toc: true
 show_sidebar: false

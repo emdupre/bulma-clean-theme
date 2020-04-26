@@ -10,5 +10,7 @@ section.hero.is-primary.is-bold{
   background-image: linear-gradient(160deg, rgba(42,98,128,1) 0%, rgba(52,153,205,1) 17%, rgba(255,243,211,1) 59%, rgba(255,178,96,1) 100%);
 }
 
+$primary: #3499cd;
+
 // Import Main CSS file from theme
 @import "main";

@@ -1,6 +1,6 @@
 ---
-title: Page without sidebar
-subtitle: Demo page without the sidebar
+title: Software Development Day
+subtitle:
 layout: page
 toc: true
 show_sidebar: false
