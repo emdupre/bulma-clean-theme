@@ -3,6 +3,7 @@ title: Nilearn Dev Days
 subtitle: 19-22 May, 2020
 layout: page
 show_sidebar: false
+hero_height: is-small
 ---
 
 [Nilearn](https://nilearn.github.io) is a Python tool that has historically focused on statistical learning with volumetric magnetic resonance imaging (MRI) data.
