@@ -26,7 +26,14 @@ section.hero.is-primary .subtitle{
   color: black;
 }
 
-$primary: #5aaace;
+section.hero.hero-body{
+  background-image: url('https://nilearn.github.io/nilearn.github.io/_static/nilearn-logo.png');
+  background-repeat: no-repeat;
+  overflow: visible;
+  background-size: 3em;
+}
+
+$primary: #94c3d0;
 
 // Import Main CSS file from theme
 @import "main";
