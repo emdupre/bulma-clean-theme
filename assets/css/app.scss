@@ -5,8 +5,8 @@ nav.navbar.is-primary .navbar-brand > .navbar-item, .navbar.is-primary .navbar-b
   color: black;
 }
 
-nav.navbar.is-primary .navbar-start > a.navbar-item:focus, .navbar.is-primary .navbar-start > a.navbar-item:hover, .navbar.is-primary .navbar-start > a.navbar-item.is-active, .navbar.is-primary .navbar-start .navbar-link:focus, .navbar.is-primary .navbar-start .navbar-link:hover, .navbar.is-primary .navbar-start .navbar-link.is-active, .navbar.is-primary .navbar-end > a.navbar-item:focus, .navbar.is-primary .navbar-end > a.navbar-item:hover, .navbar.is-primary .navbar-end > a.navbar-item.is-active, .navbar.is-primary .navbar-end .navbar-link:focus, .navbar.is-primary .navbar-end .navbar-link:hover, .navbar.is-primary .navbar-end .navbar-link.is-active{
-  color: black;
+nav.navbar.is-primary .navbar-item{
+  color: black !important;
 }
 
 section.hero.is-primary{
